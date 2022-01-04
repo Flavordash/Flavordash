@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flavordash
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning nodeJS, mysql, xml
+- 🌱 I’m currently learning LINUX, Blockchain, Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
