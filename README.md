@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flavordash
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning LINUX, Blockchain, Solidity, REACT
+- 🌱 I’m currently learning Blockchain, Solidity, REACT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
